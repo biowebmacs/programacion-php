@@ -22,6 +22,20 @@ $numerodecimal = 10.5;
 //arrays
 $frutas = ['manzana','platano','pera']
 
+//Nulo
+$varNula = Null;
+
+// Operadores
+$var1 = 15;
+$var2 = 5;
+$var3 = $var1+$var2;
+$var4 = $var1-$var2;
+$var5 = $var1*$var2;
+$var6 = $var1/$var2;
+$var7 = $var1%$var2;
+
+//& -> AND
+//|| -> Or
 
 
 ?>
