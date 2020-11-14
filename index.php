@@ -43,6 +43,7 @@ $var7 = $var1%$var2;
 <body>
 <h1> Estoy en Clase de Programacion </h1>
 <p> <?php echo gettype($nombrecompleto)?> </p>
+<p> Nueva Linea Editada</p>
 </body>
 </html>
 
